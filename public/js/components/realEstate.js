@@ -294,7 +294,7 @@ var Header = function (_Component) {
           _react2.default.createElement(
             'a',
             { href: '#' },
-            'Log in'
+            'Log in1'
           ),
           _react2.default.createElement(
             'a',
